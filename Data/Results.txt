@@ -1,0 +1,241 @@
+----------------------------------------------------------------------------------------------------
+
+SORTED SEQUENCE ARRAY (N = 100)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+                 695                   1000     |                       7892                  87900
+
+
+REVERSED SEQUENCE ARRAY (N = 100)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+               20495                  11900     |                       7812                  84500
+
+
+RANDOM ITERATIONS SEQUENCE ARRAY (N = 100)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+               11787                   7400     |                       8262                  78600
+
+
+AVERAGE OF 50 ARRAYS OF RANDOM NUMBERS (N = 100)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+               10507                   6232     |                       8264                  67632
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+SORTED SEQUENCE ARRAY (N = 200)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+                1395                   1200     |                      17408                 136800
+
+
+REVERSED SEQUENCE ARRAY (N = 200)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+               80995                  42800     |                      17248                 142800
+
+
+RANDOM ITERATIONS SEQUENCE ARRAY (N = 200)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+               43187                  24300     |                      18362                 134300
+
+
+AVERAGE OF 50 ARRAYS OF RANDOM NUMBERS (N = 200)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+               40708                  22540     |                      18346                 129682
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+SORTED SEQUENCE ARRAY (N = 300)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+                2095                   1800     |                      27508                 218800
+
+
+REVERSED SEQUENCE ARRAY (N = 300)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+              181495                  94100     |                      27252                 190900
+
+
+RANDOM ITERATIONS SEQUENCE ARRAY (N = 300)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+               93407                  50300     |                      29080                 215400
+
+
+AVERAGE OF 50 ARRAYS OF RANDOM NUMBERS (N = 300)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+               92265                  50166     |                      29087                 196496
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+SORTED SEQUENCE ARRAY (N = 400)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+                2795                   1900     |                      38040                 313400
+
+
+REVERSED SEQUENCE ARRAY (N = 400)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+              321995                 179800     |                      37720                 303500
+
+
+RANDOM ITERATIONS SEQUENCE ARRAY (N = 400)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+              162031                  88600     |                      40308                 527000
+
+
+AVERAGE OF 50 ARRAYS OF RANDOM NUMBERS (N = 400)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+              162257                 110954     |                      40317                 370186
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+SORTED SEQUENCE ARRAY (N = 500)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+                3495                   3200     |                      48436                 325100
+
+
+REVERSED SEQUENCE ARRAY (N = 500)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+              502495                 256900     |                      48324                 315900
+
+
+RANDOM ITERATIONS SEQUENCE ARRAY (N = 500)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+              249667                 132300     |                      51600                 337400
+
+
+AVERAGE OF 50 ARRAYS OF RANDOM NUMBERS (N = 500)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+              253114                 131724     |                      51600                 331876
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+SORTED SEQUENCE ARRAY (N = 1000)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+                6995                   5400     |                     104896                1202300
+
+
+REVERSED SEQUENCE ARRAY (N = 1000)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+             2004995                1231400     |                     104672                1185700
+
+
+RANDOM ITERATIONS SEQUENCE ARRAY (N = 1000)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+             1043707                 783800     |                     112212                 742200
+
+
+AVERAGE OF 50 ARRAYS OF RANDOM NUMBERS (N = 1000)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+             1005461                 542868     |                     112213                 699348
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+SORTED SEQUENCE ARRAY (N = 4000)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+               27995                  14000     |                     483656                2557100
+
+
+REVERSED SEQUENCE ARRAY (N = 4000)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+            32019995               16969900     |                     482760                3086100
+
+
+RANDOM ITERATIONS SEQUENCE ARRAY (N = 4000)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+            15471127               11020000     |                     521022                3231900
+
+
+AVERAGE OF 50 ARRAYS OF RANDOM NUMBERS (N = 4000)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+            15992557                8976886     |                     520972                3112080
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+SORTED SEQUENCE ARRAY (N = 10000)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+               69995                  48000     |                    1323304                6569400
+
+
+REVERSED SEQUENCE ARRAY (N = 10000)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+           200049995              106114500     |                    1314504                6521900
+
+
+RANDOM ITERATIONS SEQUENCE ARRAY (N = 10000)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+            93807975               49518600     |                    1426318                7159200
+
+
+AVERAGE OF 50 ARRAYS OF RANDOM NUMBERS (N = 10000)
+
+               INSERTION SORT                   |                        MERGE SORT
+Number of operations    Execution Time (ns)     |       Number of operations    Execution Time (ns)
+            99983739               53407394     |                    1426177                6966170
+
+----------------------------------------------------------------------------------------------------
+Press any key to continue . . .
