@@ -26,28 +26,28 @@ Table with results
 ## Graphs
 
 * Sorted Array - Execution Time
-<img src='./Images/Sorted Array - Execution Time.PNG' title='Sample Output' width='' alt='Sample Output' />
+<img src='./Images/Sorted Array - Execution Time.PNG' title='Sorted Array - Execution Time' width='' alt='Sorted Array - Execution Time' />
 
 * Sorted Array - Steps
-<img src='./Images/Sorted Array - Steps.PNG' title='Sample Output' width='' alt='Sample Output' />
+<img src='./Images/Sorted Array - Steps.PNG' title='Sorted Array - Steps' width='' alt='Sorted Array - Steps' />
 
 * Reversed Array - Execution Time
-<img src='./Images/Reversed Array - Execution Time.PNG' title='Sample Output' width='' alt='Sample Output' />
+<img src='./Images/Reversed Array - Execution Time.PNG' title='Reversed Array - Execution Time' width='' alt='Reversed Array - Execution Time' />
 
 * Reversed Array - Steps
-<img src='./Images/Reversed Array - Steps.PNG' title='Sample Output' width='' alt='Sample Output' />
+<img src='./Images/Reversed Array - Steps.PNG' title='Reversed Array - Steps' width='' alt='Reversed Array - Steps' />
 
 * Random Permutation Array - Execution Time
-<img src='./Images/Random Permutation Array - Execution Time.PNG' title='Sample Output' width='' alt='Sample Output' />
+<img src='./Images/Random Permutation Array - Execution Time.PNG' title='Random Permutation Array - Execution Time' width='' alt='Random Permutation Array - Execution Time' />
 
 * Random Permutation Array - Steps
-<img src='./Images/Random Permutation Array - Steps.PNG' title='Sample Output' width='' alt='Sample Output' />
+<img src='./Images/Random Permutation Array - Steps.PNG' title='Random Permutation Array - Steps' width='' alt='Random Permutation Array - Steps' />
 
 * Average of 50 Instances of Random Numbers - Execution Time
-<img src='./Images/Average of 50 Instances of Random Numbers - Execution Time.PNG' title='Sample Output' width='' alt='Sample Output' />
+<img src='./Images/Average of 50 Instances of Random Numbers - Execution Time.PNG' title='Average of 50 Instances of Random Numbers - Execution Time' width='' alt='Average of 50 Instances of Random Numbers - Execution Time' />
 
 * Average of 50 Instances of Random Numbers - Steps
-<img src='./Images/Average of 50 Instances of Random Numbers - Steps.PNG' title='Sample Output' width='' alt='Sample Output' />
+<img src='./Images/Average of 50 Instances of Random Numbers - Steps.PNG' title='Average of 50 Instances of Random Numbers - Steps' width='' alt='Average of 50 Instances of Random Numbers - Steps' />
 
 ## Graphical Analysis of Data Sets
 Uses Vernier Graphical Analysis to fit the curve and to find the approximate value of constant **C**. 
@@ -56,17 +56,17 @@ The *Insertion Sort* curve fit uses the equation:
 **C(x^2)**, where **x** represents **N** and **C** is a constant.
 
 * Curve Fit for Insertion Sort Data Set
-<img src='./Images/Insertion Sort Curve Fit Graphical Analysis.PNG' title='Sample Output' width='' alt='Sample Output' />
+<img src='./Images/Insertion Sort Curve Fit Graphical Analysis.PNG' title='Insertion Sort Curve Fit Graphical Analysis' width='' alt='Insertion Sort Curve Fit Graphical Analysis' />
 
 The *Merge Sort* curve fit uses the equation: 
 **C(x(log(x)))**, where **x** represents **N** and **C** is a constant.
 
 * Curve Fit for Merge Sort Data Set
-<img src='./Images/Merge Sort Curve Fit Graphical Analysis.PNG' title='Sample Output' width='' alt='Sample Output' />
+<img src='./Images/Merge Sort Curve Fit Graphical Analysis.PNG' title='Merge Sort Curve Fit Graphical Analysis' width='' alt='Merge Sort Curve Fit Graphical Analysis' />
 
 * Data Set
 
-<img src='./Images/Data Set for Graphical Analysis.PNG' title='Sample Output' width='' alt='Sample Output' />
+<img src='./Images/Data Set for Graphical Analysis.PNG' title='Data Set for Graphical Analysis' width='' alt='Data Set for Graphical Analysis' />
 
 ## Author
 
