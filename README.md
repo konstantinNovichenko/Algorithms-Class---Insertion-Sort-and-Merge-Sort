@@ -4,8 +4,6 @@ This program was written for **CSC 382 Algorithms** class at **College of Staten
 
 Created by: **Konstantin Novichenko**
 
-Time spent: **2** hours spent in total
-
 ## Overview
 
 The program implements *Insertion Sort* and *Merge Sort Algorithms* and checks their efficiency for arrays of size **N = 100, 200, 300, 400, 500, 1000, 4000, 10000**
